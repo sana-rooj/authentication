@@ -1,0 +1,14 @@
+C:\Users\saar\source\repos\authentication\authentication\bin\Debug\netcoreapp2.2\authentication.deps.json
+C:\Users\saar\source\repos\authentication\authentication\bin\Debug\netcoreapp2.2\authentication.runtimeconfig.json
+C:\Users\saar\source\repos\authentication\authentication\bin\Debug\netcoreapp2.2\authentication.runtimeconfig.dev.json
+C:\Users\saar\source\repos\authentication\authentication\bin\Debug\netcoreapp2.2\authentication.dll
+C:\Users\saar\source\repos\authentication\authentication\bin\Debug\netcoreapp2.2\authentication.pdb
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.csprojAssemblyReference.cache
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.csproj.CoreCompileInputs.cache
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.RazorAssemblyInfo.cache
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.RazorAssemblyInfo.cs
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.AssemblyInfoInputs.cache
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.AssemblyInfo.cs
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.RazorTargetAssemblyInfo.cache
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.dll
+C:\Users\saar\source\repos\authentication\authentication\obj\Debug\netcoreapp2.2\authentication.pdb
